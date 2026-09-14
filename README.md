@@ -405,7 +405,7 @@ int main() {
 }
 ```
 
-**4. A\* (A-Star) **
+### 4. A* (A-Star) 
 Prinsip: Menggunakan fungsi evaluasi: f(n)=g(n)+h(n)
 Keterangan:
 
