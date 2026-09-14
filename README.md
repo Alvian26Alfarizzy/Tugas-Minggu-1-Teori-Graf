@@ -7,7 +7,7 @@ Repository ini berisi implementasi 5 algoritma **Shortest Path** menggunakan C++
 1. [Dijkstra](#1-dijkstra)
 2. [Bellman-Ford](#2-bellman-ford)
 3. [Floyd-Warshall](#3-floyd-warshall)
-4. [A-Star](#4-a-star-a-star)
+4. [A-Star](#4-A* (A-Star))
 5. [Johnson](#5-johnson)
 
 ---
